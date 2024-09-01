@@ -1,2 +1,5 @@
-Pipeline{
+Pipeline {
+agent {
+label 'docker-slave'
+}
 }
